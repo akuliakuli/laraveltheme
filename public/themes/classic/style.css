@@ -1,0 +1,22 @@
+/* public/themes/classic/style.css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.custom-button {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
